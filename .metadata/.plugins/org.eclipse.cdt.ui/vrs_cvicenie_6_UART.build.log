@@ -1,0 +1,10 @@
+22:01:35 **** Incremental Build of configuration Debug for project vrs_cvicenie_6_UART ****
+make -j4 all 
+arm-none-eabi-size   vrs_cvicenie_6_UART.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5180	     12	   1572	   6764	   1a6c	vrs_cvicenie_6_UART.elf
+Finished building: default.size.stdout
+ 
+
+22:01:35 Build Finished. 0 errors, 0 warnings. (took 685ms)
+
